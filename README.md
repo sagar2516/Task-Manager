@@ -19,5 +19,5 @@ A simple and responsive task manager built using HTML, CSS, and JavaScript. It a
 
 ---
 
-## 📁 Project Structure
+
 
